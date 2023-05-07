@@ -57,7 +57,7 @@
   left: 0;
   height: 1117px;
   overflow: hidden;
-  background-image: url(./public/model-y@3x.png);
+  background-image: url(public/model-y@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -81,14 +81,14 @@
   left: -0.06%;
   height: 1117px;
   overflow: hidden;
-  background-image: url(./public/model-3@3x.png);
+  background-image: url(public/model-3@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
 }
 .model-x {
   top: 2234px;
-  background-image: url(./public/model-x@3x.png);
+  background-image: url(public/model-x@3x.png);
 }
 .logo-icon {
   position: relative;
