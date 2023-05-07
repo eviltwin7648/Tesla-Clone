@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --menu: Inter;
+
+  /* font sizes */
+  --menu-size: 16px;
+  --heading-size: 48px;
+
+  /* Colors */
+  --white: #fff;
+  --dark-grey: #171a20;
+  --whiteishhh: rgba(244, 244, 244, 0.65);
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-11xl: 30px;
+  --gap-smi: 13px;
+
+  /* Paddings */
+  --padding-base: 16px;
+  --padding-41xl: 60px;
+  --padding-51xl: 70px;
+
+  /* border radiuses */
+  --br-9xs: 4px;
+}
